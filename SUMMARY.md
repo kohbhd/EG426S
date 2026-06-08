@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Basics of Node-Red](README.md)
+* [Setup of M5Atom](setup-of-m5atom.md)
